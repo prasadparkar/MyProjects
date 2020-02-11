@@ -9,6 +9,7 @@ printf("Enter first number:");
 scanf("%d",&x);
 printf("Enter second number:");
 scanf("%d",&y);
+// %d is used to print the signed integer value where signed integer means that the variable can hold both positive and negative values.
 
 result=x+y;
 printf("Sum of two numbers:%d ",result);
