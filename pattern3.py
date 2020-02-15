@@ -9,4 +9,16 @@ for i in range(num): #this for loop condition is implemented for rows
         else:
             print(end=" ")
     print()
-        
+
+"""
+OUTPUT:
+Enter the number of rows:
+6
+*
+**
+* *
+*  *
+*   *
+******
+
+"""
