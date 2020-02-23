@@ -15,4 +15,4 @@ OUTPUT:
 Type a sentence here:I love my India.
 Number of vowels in given sentence: 6
 
-"""s
+"""
